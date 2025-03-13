@@ -1,0 +1,15 @@
+leonidik03@msi:~/python_ws/python_hometasks/hw_1$ wc artifacts_file1.txt 
+  15  242 3675 artifacts_file1.txt
+leonidik03@msi:~/python_ws/python_hometasks/hw_1$ pixi run python3 task3.py artifacts_file1.txt 
+  15   242 3675 artifacts_file1.txt
+leonidik03@msi:~/python_ws/python_hometasks/hw_1$ pixi run python3 task3.py artifacts_file1.txt artifacts_file2.txt 
+  15   242 3675 artifacts_file1.txt
+  12   118 669 artifacts_file2.txt
+  27   360 4344 total
+leonidik03@msi:~/python_ws/python_hometasks/hw_1$ pixi run python3 task3.py
+eqeqw eqwe eqw eqw
+dasda
+dasa das
+
+dasda dasda d
+ 4  10 48
