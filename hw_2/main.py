@@ -1,4 +1,4 @@
-from hw_2 import generate_table, generate_image, gererate_latex_and_pdf
+from latex_lib1243125 import generate_table, generate_image, gererate_latex_and_pdf
 
 
 def main():
