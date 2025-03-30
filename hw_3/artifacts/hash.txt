@@ -1,0 +1,4 @@
+Hash of A: 103
+Hash of C: 103
+Hash of AB: 1462
+Hash of CD: 1457
