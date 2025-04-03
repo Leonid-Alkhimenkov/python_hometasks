@@ -1,0 +1,12 @@
+17:54:03 main: enter message: hi
+17:54:07 main: enter message: how are you
+17:54:11 main: enter message: 17:54:12 process B: uv
+17:54:12 main received: uv
+17:54:17 process B: ubj ner lbh
+17:54:17 main received: ubj ner lbh
+im fine
+17:54:21 main: enter message: 17:54:26 process B: vz svar
+17:54:26 main received: vz svar
+^C
+Shutting down...
+Processes terminated.

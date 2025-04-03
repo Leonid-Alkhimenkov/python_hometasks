@@ -1,0 +1,3 @@
+run_sync execution time: 4.7390477657318115 seconds
+run_threads execution time: 5.297764301300049 seconds
+run_processes execution time: 1.043321132659912 second

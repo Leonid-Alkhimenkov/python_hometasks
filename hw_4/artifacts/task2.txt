@@ -1,0 +1,120 @@
+n_jobs = 1
+ThreadPoolExecutor:
+Execution time: 0.4384 seconds
+ProcessPoolExecutor:
+Execution time: 0.4393 seconds
+n_jobs = 2
+ThreadPoolExecutor:
+Execution time: 0.4326 seconds
+ProcessPoolExecutor:
+Execution time: 0.2260 seconds
+n_jobs = 3
+ThreadPoolExecutor:
+Execution time: 0.4351 seconds
+ProcessPoolExecutor:
+Execution time: 0.1617 seconds
+n_jobs = 4
+ThreadPoolExecutor:
+Execution time: 0.4422 seconds
+ProcessPoolExecutor:
+Execution time: 0.1312 seconds
+n_jobs = 5
+ThreadPoolExecutor:
+Execution time: 0.4650 seconds
+ProcessPoolExecutor:
+Execution time: 0.1557 seconds
+n_jobs = 6
+ThreadPoolExecutor:
+Execution time: 0.5030 seconds
+ProcessPoolExecutor:
+Execution time: 0.1625 seconds
+n_jobs = 7
+ThreadPoolExecutor:
+Execution time: 0.5085 seconds
+ProcessPoolExecutor:
+Execution time: 0.1592 seconds
+n_jobs = 8
+ThreadPoolExecutor:
+Execution time: 0.4789 seconds
+ProcessPoolExecutor:
+Execution time: 0.1334 seconds
+n_jobs = 9
+ThreadPoolExecutor:
+Execution time: 0.5238 seconds
+ProcessPoolExecutor:
+Execution time: 0.1388 seconds
+n_jobs = 10
+ThreadPoolExecutor:
+Execution time: 0.5022 seconds
+ProcessPoolExecutor:
+Execution time: 0.1137 seconds
+n_jobs = 11
+ThreadPoolExecutor:
+Execution time: 0.5237 seconds
+ProcessPoolExecutor:
+Execution time: 0.1319 seconds
+n_jobs = 12
+ThreadPoolExecutor:
+Execution time: 0.5272 seconds
+ProcessPoolExecutor:
+Execution time: 0.1400 seconds
+n_jobs = 13
+ThreadPoolExecutor:
+Execution time: 0.4745 seconds
+ProcessPoolExecutor:
+Execution time: 0.1302 seconds
+n_jobs = 14
+ThreadPoolExecutor:
+Execution time: 0.5147 seconds
+ProcessPoolExecutor:
+Execution time: 0.1208 seconds
+n_jobs = 15
+ThreadPoolExecutor:
+Execution time: 0.4775 seconds
+ProcessPoolExecutor:
+Execution time: 0.1138 seconds
+n_jobs = 16
+ThreadPoolExecutor:
+Execution time: 0.5104 seconds
+ProcessPoolExecutor:
+Execution time: 0.1112 seconds
+n_jobs = 17
+ThreadPoolExecutor:
+Execution time: 0.4991 seconds
+ProcessPoolExecutor:
+Execution time: 0.1109 seconds
+n_jobs = 18
+ThreadPoolExecutor:
+Execution time: 0.5204 seconds
+ProcessPoolExecutor:
+Execution time: 0.1103 seconds
+n_jobs = 19
+ThreadPoolExecutor:
+Execution time: 0.5161 seconds
+ProcessPoolExecutor:
+Execution time: 0.1257 seconds
+n_jobs = 20
+ThreadPoolExecutor:
+Execution time: 0.4823 seconds
+ProcessPoolExecutor:
+Execution time: 0.1120 seconds
+n_jobs = 21
+ThreadPoolExecutor:
+Execution time: 0.5086 seconds
+ProcessPoolExecutor:
+Execution time: 0.1150 seconds
+n_jobs = 22
+ThreadPoolExecutor:
+Execution time: 0.4934 seconds
+ProcessPoolExecutor:
+Execution time: 0.1176 seconds
+n_jobs = 23
+ThreadPoolExecutor:
+Execution time: 0.4762 seconds
+ProcessPoolExecutor:
+Execution time: 0.1196 seconds
+n_jobs = 24
+ThreadPoolExecutor:
+Execution time: 0.4859 seconds
+ProcessPoolExecutor:
+Execution time: 0.1295 seconds
